@@ -1,5 +1,5 @@
 {
-  "name": "gdc-frontend-environment",
+  "name": "frontend-environment",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -8,10 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://oss.navercorp.com/leehyunggeun/GDC-Frontend-Environment.git"
+    "url": "https://github.com/LeeHyungGeun/Frontend-Environment.git"
   },
   "keywords": [
-    "GDC",
     "Frontend",
     "Environment"
   ],
