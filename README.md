@@ -1,21 +1,8 @@
-# 1. Install
-```
-npm install
-```
+This is an algorithm Demo by JavaScript
 
-# 2. Run
-## 1. Development Mode
-```
-gulp
-```
-
-### 2. Product Mode
-```
-gulp prod
-```
----
-## What is next?
-- Less/Sass/PostCss
-- Browser Sync
-- Karma
-
+## Algorithms
+- isAnagram
+- encodeSpace
+- compressword
+- isUniqChars
+- palindrome
